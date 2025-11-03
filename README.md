@@ -40,11 +40,7 @@ It replicates the modern UI and smooth layout of ToDesktop — a platform that c
 
 ## 🖼️ Preview
 
-Add screenshots or a GIF here for better presentation:
-
-```
 ![ToDesktop Landing Page Preview](https://github.com/AlfishanShaikh/todesktop-landing-page/blob/70b80896e606cc84bafed17251db97d674d86ef8/banner.png)
-```
 
 ---
 
